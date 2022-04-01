@@ -1,0 +1,67 @@
+2022-02-09/11:05:00		Start of Data Preparation !!!
+2022-02-09/11:05:30		Raw data combined and saved as csv
+2022-02-09/11:08:35		Exception occurred in datapreparation.Exception message:
+2022-02-09/11:08:40		Data preparation unsuccessful. Check exceptions
+2022-02-09/11:12:28		Start of Data Preparation !!!
+2022-02-09/11:12:55		Raw data combined and saved as csv
+2022-02-09/11:12:55		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/11:12:55		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/11:14:04		Data preparation failed!!! Exception message: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'Index'
+2022-02-09/11:20:36		Exception occurred in datapreparation.Exception message:
+2022-02-09/11:20:37		Data preparation unsuccessful. Check exceptions
+2022-02-09/11:26:20		Start of Data Preparation !!!
+2022-02-09/11:26:47		Raw data combined and saved as csv
+2022-02-09/11:26:47		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/11:26:47		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/11:34:59		Data preparation failed!!! Exception message: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'Index'
+2022-02-09/11:35:39		Exception occurred in datapreparation.Exception message:
+2022-02-09/11:35:40		Data preparation unsuccessful. Check exceptions
+2022-02-09/11:43:27		Start of Data Preparation !!!
+2022-02-09/11:43:53		Exception occurred in datapreparation.Exception message:
+2022-02-09/11:43:53		Data preparation unsuccessful. Check exceptions
+2022-02-09/11:46:29		Start of Data Preparation !!!
+2022-02-09/11:46:55		Raw data combined and saved as csv
+2022-02-09/11:46:55		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/11:46:56		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/11:50:05		Start of Data Preparation !!!
+2022-02-09/13:17:59		Start of Data Preparation !!!
+2022-02-09/13:18:28		Raw data combined and saved as csv
+2022-02-09/13:18:28		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/13:18:28		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/13:18:41		Data preparation failed!!! Exception message: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'Index'
+2022-02-09/13:19:37		Start of Data Preparation !!!
+2022-02-09/13:19:45		Start of Data Preparation !!!
+2022-02-09/13:20:11		Raw data combined and saved as csv
+2022-02-09/13:20:11		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/13:20:12		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/13:22:20		Start of Data Preparation !!!
+2022-02-09/13:22:46		Raw data combined and saved as csv
+2022-02-09/13:22:46		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/13:22:47		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/13:25:32		Data preparation failed!!! Exception message: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'Index'
+2022-02-09/13:27:07		Start of Data Preparation !!!
+2022-02-09/13:27:33		Raw data combined and saved as csv
+2022-02-09/13:27:33		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/13:27:33		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/14:16:38		Start of Data Preparation !!!
+2022-02-09/14:17:04		Raw data combined and saved as csv
+2022-02-09/14:17:04		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/14:17:04		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/14:18:11		Training file prepared from raw data successfully and saved to given location
+2022-02-09/14:19:18		Data prepared and saved as csv file
+2022-02-09/14:19:21		Feature Addition started!!!
+2022-02-09/14:19:27		Started feature addition methods
+2022-02-09/14:19:30		Entered the get_Months_Days method of Feature_Addition class
+2022-02-09/14:19:37		Exception occurred in datapreparation.Exception message:
+2022-02-09/14:19:39		Data preparation unsuccessful. Check exceptions
+2022-02-09/14:20:51		Start of Data Preparation !!!
+2022-02-09/14:21:18		Raw data combined and saved as csv
+2022-02-09/14:21:18		Entered the is_null_present mehtod of rawDataProcessing class
+2022-02-09/14:21:19		Finding missing values successful. Data written to the null values file. Exited is_null_presesnt mehtod.
+2022-02-09/15:49:19		Start of Data Preparation !!!
+2022-02-09/15:49:19		Exception occurred in datapreparation.Exception message:
+2022-02-09/15:49:19		Data preparation unsuccessful. Check exceptions
+2022-02-09/15:51:08		Start of Data Preparation !!!
+2022-02-09/15:54:17		Start of Data Preparation !!!
+2022-02-09/15:55:54		Exception occurred in datapreparation.Exception message:
+2022-02-09/15:56:00		Data preparation unsuccessful. Check exceptions

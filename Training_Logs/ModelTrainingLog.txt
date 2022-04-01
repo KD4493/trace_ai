@@ -1,0 +1,1505 @@
+2022-03-28/12:26:25		Start of Training
+2022-03-28/12:26:25		Opened TRACE_AI database successfully
+2022-03-28/12:28:23		Model training unsuccessful
+2022-03-28/12:28:23		Exception occurred in model training
+2022-03-28/12:31:16		Start of Training
+2022-03-28/12:31:16		Opened TRACE_AI database successfully
+2022-03-28/12:32:09		Model training unsuccessful
+2022-03-28/12:32:11		Exception occurred in model training
+2022-03-28/12:33:24		Start of Training
+2022-03-28/12:33:24		Opened TRACE_AI database successfully
+2022-03-28/12:33:33		Model training unsuccessful
+2022-03-28/12:35:11		Start of Training
+2022-03-28/12:35:11		Opened TRACE_AI database successfully
+2022-03-28/12:35:18		Model training unsuccessful
+2022-03-28/12:35:19		Exception occurred in model training. Exception message is : fit_prophet_model() missing 1 required positional argument: 'df'
+2022-03-28/12:37:39		Start of Training
+2022-03-28/12:37:39		Opened TRACE_AI database successfully
+2022-03-28/12:37:39		Model training unsuccessful
+2022-03-28/12:37:39		Exception occurred in model training. Exception message is : fit_prophet_model() missing 1 required positional argument: 'df'
+2022-03-28/12:51:21		Start of Training
+2022-03-28/12:51:21		Opened TRACE_AI database successfully
+2022-03-28/12:51:21		Entered the fit_prophet_model of prophet class
+2022-03-28/12:51:24		Entered the make_future_df method of prophet class
+2022-03-28/12:52:02		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:35:23		Start of Training
+2022-03-28/14:35:23		Opened TRACE_AI database successfully
+2022-03-28/14:35:23		Entered the fit_prophet_model of prophet class
+2022-03-28/14:35:26		Entered the make_future_df method of prophet class
+2022-03-28/14:35:26		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:35:28		Entered the fit_prophet_model of prophet class
+2022-03-28/14:35:28		Entered the make_future_df method of prophet class
+2022-03-28/14:35:28		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:35:31		Entered the fit_prophet_model of prophet class
+2022-03-28/14:35:31		Entered the make_future_df method of prophet class
+2022-03-28/14:35:31		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:35:33		Entered the fit_prophet_model of prophet class
+2022-03-28/14:35:34		Entered the make_future_df method of prophet class
+2022-03-28/14:35:34		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:42:04		Entered the fit_prophet_model of prophet class
+2022-03-28/14:42:05		Entered the make_future_df method of prophet class
+2022-03-28/14:42:05		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:51:06		Start of Training
+2022-03-28/14:51:06		Opened TRACE_AI database successfully
+2022-03-28/14:51:06		Entered the fit_prophet_model of prophet class
+2022-03-28/14:51:07		Entered the make_future_df method of prophet class
+2022-03-28/14:51:07		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:51:09		Entered the fit_prophet_model of prophet class
+2022-03-28/14:51:09		Entered the make_future_df method of prophet class
+2022-03-28/14:51:09		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:51:10		Entered the fit_prophet_model of prophet class
+2022-03-28/14:51:11		Entered the make_future_df method of prophet class
+2022-03-28/14:51:11		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:51:12		Entered the fit_prophet_model of prophet class
+2022-03-28/14:51:12		Entered the make_future_df method of prophet class
+2022-03-28/14:51:12		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:51:14		Entered the fit_prophet_model of prophet class
+2022-03-28/14:51:15		Entered the make_future_df method of prophet class
+2022-03-28/14:51:15		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:55:48		Start of Training
+2022-03-28/14:55:48		Opened TRACE_AI database successfully
+2022-03-28/14:55:48		Entered the fit_prophet_model of prophet class
+2022-03-28/14:55:50		Entered the make_future_df method of prophet class
+2022-03-28/14:55:50		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:55:52		Entered the fit_prophet_model of prophet class
+2022-03-28/14:55:53		Entered the make_future_df method of prophet class
+2022-03-28/14:55:53		Entered the forecast_future mehtod of prophet class
+2022-03-28/14:55:55		Entered the fit_prophet_model of prophet class
+2022-03-28/14:55:56		Entered the make_future_df method of prophet class
+2022-03-28/14:55:56		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:17:19		Start of Training
+2022-03-28/15:17:19		Opened TRACE_AI database successfully
+2022-03-28/15:17:19		Entered the fit_prophet_model of prophet class
+2022-03-28/15:17:21		Entered the make_future_df method of prophet class
+2022-03-28/15:17:21		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:17:24		Model training unsuccessful
+2022-03-28/15:17:24		Exception occurred in model training. Exception message is : ('ds', 'yhat')
+2022-03-28/15:18:21		Start of Training
+2022-03-28/15:18:21		Opened TRACE_AI database successfully
+2022-03-28/15:18:21		Entered the fit_prophet_model of prophet class
+2022-03-28/15:18:23		Entered the make_future_df method of prophet class
+2022-03-28/15:18:23		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:18:26		Model training unsuccessful
+2022-03-28/15:18:26		Exception occurred in model training. Exception message is : ('ds', 'yhat')
+2022-03-28/15:18:47		Start of Training
+2022-03-28/15:18:47		Opened TRACE_AI database successfully
+2022-03-28/15:18:47		Entered the fit_prophet_model of prophet class
+2022-03-28/15:18:49		Entered the make_future_df method of prophet class
+2022-03-28/15:18:49		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:21:22		Start of Training
+2022-03-28/15:21:22		Opened TRACE_AI database successfully
+2022-03-28/15:21:22		Entered the fit_prophet_model of prophet class
+2022-03-28/15:21:24		Entered the make_future_df method of prophet class
+2022-03-28/15:21:24		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:21:26		Model training unsuccessful
+2022-03-28/15:21:26		Exception occurred in model training. Exception message is : ('ds', 'yhat')
+2022-03-28/15:26:35		Start of Training
+2022-03-28/15:26:35		Opened TRACE_AI database successfully
+2022-03-28/15:26:35		Entered the fit_prophet_model of prophet class
+2022-03-28/15:26:37		Entered the make_future_df method of prophet class
+2022-03-28/15:26:37		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:26:45		Entered the fit_prophet_model of prophet class
+2022-03-28/15:26:45		Entered the make_future_df method of prophet class
+2022-03-28/15:26:45		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:26:48		Entered the fit_prophet_model of prophet class
+2022-03-28/15:26:48		Entered the make_future_df method of prophet class
+2022-03-28/15:26:48		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:26:55		Entered the fit_prophet_model of prophet class
+2022-03-28/15:26:55		Entered the make_future_df method of prophet class
+2022-03-28/15:26:55		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:26:57		Entered the fit_prophet_model of prophet class
+2022-03-28/15:26:59		Entered the make_future_df method of prophet class
+2022-03-28/15:26:59		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:27:34		Model training unsuccessful
+2022-03-28/15:27:35		Exception occurred in model training. Exception message is : [Errno 13] Permission denied: 'Prepared_Data/overallcount.csv'
+2022-03-28/15:27:57		Start of Training
+2022-03-28/15:27:57		Opened TRACE_AI database successfully
+2022-03-28/15:27:57		Entered the fit_prophet_model of prophet class
+2022-03-28/15:27:58		Entered the make_future_df method of prophet class
+2022-03-28/15:27:58		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:27:59		Entered the fit_prophet_model of prophet class
+2022-03-28/15:28:00		Entered the make_future_df method of prophet class
+2022-03-28/15:28:00		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:28:01		Entered the fit_prophet_model of prophet class
+2022-03-28/15:28:01		Entered the make_future_df method of prophet class
+2022-03-28/15:28:01		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:28:03		Entered the fit_prophet_model of prophet class
+2022-03-28/15:28:03		Entered the make_future_df method of prophet class
+2022-03-28/15:28:03		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:28:04		Entered the fit_prophet_model of prophet class
+2022-03-28/15:28:05		Entered the make_future_df method of prophet class
+2022-03-28/15:28:05		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:35:00		Start of Training
+2022-03-28/15:35:00		Opened TRACE_AI database successfully
+2022-03-28/15:35:00		Entered the fit_prophet_model of prophet class
+2022-03-28/15:35:01		Entered the make_future_df method of prophet class
+2022-03-28/15:35:01		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:35:03		Entered the fit_prophet_model of prophet class
+2022-03-28/15:35:03		Entered the make_future_df method of prophet class
+2022-03-28/15:35:03		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:35:04		Entered the fit_prophet_model of prophet class
+2022-03-28/15:35:05		Entered the make_future_df method of prophet class
+2022-03-28/15:35:05		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:35:06		Entered the fit_prophet_model of prophet class
+2022-03-28/15:35:06		Entered the make_future_df method of prophet class
+2022-03-28/15:35:06		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:35:08		Entered the fit_prophet_model of prophet class
+2022-03-28/15:35:09		Entered the make_future_df method of prophet class
+2022-03-28/15:35:09		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:40:32		Start of Training
+2022-03-28/15:40:32		Opened TRACE_AI database successfully
+2022-03-28/15:40:32		Entered the fit_prophet_model of prophet class
+2022-03-28/15:40:34		Entered the make_future_df method of prophet class
+2022-03-28/15:40:34		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:40:36		Entered the fit_prophet_model of prophet class
+2022-03-28/15:40:36		Entered the make_future_df method of prophet class
+2022-03-28/15:40:36		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:40:39		Entered the fit_prophet_model of prophet class
+2022-03-28/15:40:39		Entered the make_future_df method of prophet class
+2022-03-28/15:40:39		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:40:42		Entered the fit_prophet_model of prophet class
+2022-03-28/15:40:42		Entered the make_future_df method of prophet class
+2022-03-28/15:40:42		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:40:44		Entered the fit_prophet_model of prophet class
+2022-03-28/15:40:46		Entered the make_future_df method of prophet class
+2022-03-28/15:40:46		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:41:22		Model training unsuccessful
+2022-03-28/15:41:40		Start of Training
+2022-03-28/15:41:40		Opened TRACE_AI database successfully
+2022-03-28/15:41:40		Entered the fit_prophet_model of prophet class
+2022-03-28/15:41:41		Entered the make_future_df method of prophet class
+2022-03-28/15:41:41		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:41:42		Entered the fit_prophet_model of prophet class
+2022-03-28/15:41:43		Entered the make_future_df method of prophet class
+2022-03-28/15:41:43		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:41:44		Entered the fit_prophet_model of prophet class
+2022-03-28/15:41:44		Entered the make_future_df method of prophet class
+2022-03-28/15:41:44		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:41:46		Entered the fit_prophet_model of prophet class
+2022-03-28/15:41:46		Entered the make_future_df method of prophet class
+2022-03-28/15:41:46		Entered the forecast_future mehtod of prophet class
+2022-03-28/15:41:47		Entered the fit_prophet_model of prophet class
+2022-03-28/15:41:48		Entered the make_future_df method of prophet class
+2022-03-28/15:41:48		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:51:33		Start of Training
+2022-03-28/17:51:34		Opened TRACE_AI database successfully
+2022-03-28/17:51:35		Model training unsuccessful
+2022-03-28/17:51:35		Exception occurred in model training. Exception message is : "['Transaction_date'] not in index"
+2022-03-28/17:56:24		Start of Training
+2022-03-28/17:56:24		Opened TRACE_AI database successfully
+2022-03-28/17:56:24		Model training unsuccessful
+2022-03-28/17:56:24		Exception occurred in model training. Exception message is : 'NoneType' object is not subscriptable
+2022-03-28/17:57:28		Start of Training
+2022-03-28/17:57:28		Opened TRACE_AI database successfully
+2022-03-28/17:58:50		Start of Training
+2022-03-28/17:58:50		Opened TRACE_AI database successfully
+2022-03-28/17:58:50		Entered the fit_prophet_model of prophet class
+2022-03-28/17:58:52		Entered the make_future_df method of prophet class
+2022-03-28/17:58:53		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:58:54		Entered the fit_prophet_model of prophet class
+2022-03-28/17:58:54		Entered the make_future_df method of prophet class
+2022-03-28/17:58:54		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:58:55		Entered the fit_prophet_model of prophet class
+2022-03-28/17:58:55		Entered the make_future_df method of prophet class
+2022-03-28/17:58:55		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:58:57		Entered the fit_prophet_model of prophet class
+2022-03-28/17:58:57		Entered the make_future_df method of prophet class
+2022-03-28/17:58:57		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:58:58		Entered the fit_prophet_model of prophet class
+2022-03-28/17:58:58		Entered the make_future_df method of prophet class
+2022-03-28/17:58:58		Entered the forecast_future mehtod of prophet class
+2022-03-28/17:59:00		Model training unsuccessful
+2022-03-28/17:59:00		Exception occurred in model training. Exception message is : 'Bank_Code'
+2022-03-28/18:01:52		Start of Training
+2022-03-28/18:01:53		Opened TRACE_AI database successfully
+2022-03-28/18:01:53		Opened TRACE_AI database successfully
+2022-03-28/18:01:53		Entered the fit_prophet_model of prophet class
+2022-03-28/18:01:54		Entered the make_future_df method of prophet class
+2022-03-28/18:01:54		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:01:55		Entered the fit_prophet_model of prophet class
+2022-03-28/18:01:55		Entered the make_future_df method of prophet class
+2022-03-28/18:01:55		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:01:56		Entered the fit_prophet_model of prophet class
+2022-03-28/18:01:57		Entered the make_future_df method of prophet class
+2022-03-28/18:01:57		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:01:58		Entered the fit_prophet_model of prophet class
+2022-03-28/18:01:58		Entered the make_future_df method of prophet class
+2022-03-28/18:01:58		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:01:59		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:00		Entered the make_future_df method of prophet class
+2022-03-28/18:02:00		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:01		Opened TRACE_AI database successfully
+2022-03-28/18:02:01		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:01		Entered the make_future_df method of prophet class
+2022-03-28/18:02:01		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:02		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:03		Entered the make_future_df method of prophet class
+2022-03-28/18:02:03		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:04		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:04		Entered the make_future_df method of prophet class
+2022-03-28/18:02:04		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:05		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:06		Entered the make_future_df method of prophet class
+2022-03-28/18:02:06		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:07		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:07		Entered the make_future_df method of prophet class
+2022-03-28/18:02:07		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:08		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:08		Entered the make_future_df method of prophet class
+2022-03-28/18:02:08		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:10		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:10		Entered the make_future_df method of prophet class
+2022-03-28/18:02:10		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:11		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:12		Entered the make_future_df method of prophet class
+2022-03-28/18:02:12		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:13		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:13		Entered the make_future_df method of prophet class
+2022-03-28/18:02:13		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:14		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:15		Entered the make_future_df method of prophet class
+2022-03-28/18:02:15		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:16		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:16		Entered the make_future_df method of prophet class
+2022-03-28/18:02:16		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:17		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:18		Entered the make_future_df method of prophet class
+2022-03-28/18:02:18		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:19		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:19		Entered the make_future_df method of prophet class
+2022-03-28/18:02:19		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:20		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:20		Entered the make_future_df method of prophet class
+2022-03-28/18:02:20		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:21		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:21		Entered the make_future_df method of prophet class
+2022-03-28/18:02:21		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:22		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:22		Entered the make_future_df method of prophet class
+2022-03-28/18:02:22		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:24		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:24		Entered the make_future_df method of prophet class
+2022-03-28/18:02:24		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:25		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:25		Entered the make_future_df method of prophet class
+2022-03-28/18:02:25		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:26		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:26		Entered the make_future_df method of prophet class
+2022-03-28/18:02:26		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:02:27		Entered the fit_prophet_model of prophet class
+2022-03-28/18:02:27		Entered the make_future_df method of prophet class
+2022-03-28/18:02:27		Entered the forecast_future mehtod of prophet class
+2022-03-28/18:43:54		insertdftoSQL method of dbOperation class started
+2022-03-28/18:49:38		insertdftoSQL method of dbOperation class started
+2022-03-28/18:51:20		insertdftoSQL method of dbOperation class started
+2022-03-28/18:51:51		insertdftoSQL method of dbOperation class started
+2022-03-28/18:52:06		insertdftoSQL method of dbOperation class started
+2022-03-29/12:55:15		Opened TRACE_AI database successfully
+2022-03-29/12:55:15		Model training unsuccessful
+2022-03-29/12:55:15		Exception occurred in model training. Exception message is : "['Bank_Code' 'Channel'] not found in axis"
+2022-03-29/12:55:49		Opened TRACE_AI database successfully
+2022-03-29/12:55:49		Model training unsuccessful
+2022-03-29/12:55:49		Exception occurred in model training. Exception message is : "['Bank_Code' 'Channel'] not found in axis"
+2022-03-29/12:55:56		Opened TRACE_AI database successfully
+2022-03-29/13:22:29		Opened TRACE_AI database successfully
+2022-03-29/13:22:42		Entered the fit_prophet_model of prophet class
+2022-03-29/13:22:45		Entered the make_future_df method of prophet class
+2022-03-29/13:22:45		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:22:48		Entered the fit_prophet_model of prophet class
+2022-03-29/13:22:48		Entered the make_future_df method of prophet class
+2022-03-29/13:22:48		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:22:50		Entered the fit_prophet_model of prophet class
+2022-03-29/13:22:50		Entered the make_future_df method of prophet class
+2022-03-29/13:22:50		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:22:52		Entered the fit_prophet_model of prophet class
+2022-03-29/13:22:52		Entered the make_future_df method of prophet class
+2022-03-29/13:22:52		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:07		Opened TRACE_AI database successfully
+2022-03-29/13:27:07		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:08		Entered the make_future_df method of prophet class
+2022-03-29/13:27:08		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:09		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:09		Entered the make_future_df method of prophet class
+2022-03-29/13:27:09		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:10		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:10		Entered the make_future_df method of prophet class
+2022-03-29/13:27:10		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:11		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:11		Entered the make_future_df method of prophet class
+2022-03-29/13:27:11		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:13		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:13		Entered the make_future_df method of prophet class
+2022-03-29/13:27:13		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:14		Opened TRACE_AI database successfully
+2022-03-29/13:27:14		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:14		Entered the make_future_df method of prophet class
+2022-03-29/13:27:14		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:15		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:15		Entered the make_future_df method of prophet class
+2022-03-29/13:27:15		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:16		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:16		Entered the make_future_df method of prophet class
+2022-03-29/13:27:16		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:18		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:18		Entered the make_future_df method of prophet class
+2022-03-29/13:27:18		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:19		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:19		Entered the make_future_df method of prophet class
+2022-03-29/13:27:19		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:20		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:20		Entered the make_future_df method of prophet class
+2022-03-29/13:27:20		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:21		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:21		Entered the make_future_df method of prophet class
+2022-03-29/13:27:21		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:22		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:22		Entered the make_future_df method of prophet class
+2022-03-29/13:27:22		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:24		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:24		Entered the make_future_df method of prophet class
+2022-03-29/13:27:24		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:25		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:25		Entered the make_future_df method of prophet class
+2022-03-29/13:27:25		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:26		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:26		Entered the make_future_df method of prophet class
+2022-03-29/13:27:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:27		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:27		Entered the make_future_df method of prophet class
+2022-03-29/13:27:27		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:28		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:28		Entered the make_future_df method of prophet class
+2022-03-29/13:27:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:30		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:30		Entered the make_future_df method of prophet class
+2022-03-29/13:27:30		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:31		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:31		Entered the make_future_df method of prophet class
+2022-03-29/13:27:31		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:32		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:32		Entered the make_future_df method of prophet class
+2022-03-29/13:27:32		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:33		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:33		Entered the make_future_df method of prophet class
+2022-03-29/13:27:33		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:35		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:35		Entered the make_future_df method of prophet class
+2022-03-29/13:27:35		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:36		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:36		Entered the make_future_df method of prophet class
+2022-03-29/13:27:36		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:37		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:37		Entered the make_future_df method of prophet class
+2022-03-29/13:27:37		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:38		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:38		Entered the make_future_df method of prophet class
+2022-03-29/13:27:38		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:27:39		Entered the fit_prophet_model of prophet class
+2022-03-29/13:27:39		Entered the make_future_df method of prophet class
+2022-03-29/13:27:39		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:28:08		Opened TRACE_AI database successfully
+2022-03-29/13:28:24		Entered the fit_prophet_model of prophet class
+2022-03-29/13:28:26		Entered the make_future_df method of prophet class
+2022-03-29/13:28:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:28:28		Entered the fit_prophet_model of prophet class
+2022-03-29/13:28:28		Entered the make_future_df method of prophet class
+2022-03-29/13:28:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:28:30		Entered the fit_prophet_model of prophet class
+2022-03-29/13:28:31		Entered the make_future_df method of prophet class
+2022-03-29/13:28:31		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:28:33		Entered the fit_prophet_model of prophet class
+2022-03-29/13:28:33		Entered the make_future_df method of prophet class
+2022-03-29/13:28:33		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:28:35		Entered the fit_prophet_model of prophet class
+2022-03-29/13:28:36		Entered the make_future_df method of prophet class
+2022-03-29/13:28:36		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:22		Opened TRACE_AI database successfully
+2022-03-29/13:29:25		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:26		Entered the make_future_df method of prophet class
+2022-03-29/13:29:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:28		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:28		Entered the make_future_df method of prophet class
+2022-03-29/13:29:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:30		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:31		Entered the make_future_df method of prophet class
+2022-03-29/13:29:31		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:33		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:33		Entered the make_future_df method of prophet class
+2022-03-29/13:29:33		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:36		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:36		Entered the make_future_df method of prophet class
+2022-03-29/13:29:36		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:44		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:44		Entered the make_future_df method of prophet class
+2022-03-29/13:29:44		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:46		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:46		Entered the make_future_df method of prophet class
+2022-03-29/13:29:46		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:49		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:49		Entered the make_future_df method of prophet class
+2022-03-29/13:29:49		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:52		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:52		Entered the make_future_df method of prophet class
+2022-03-29/13:29:52		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:54		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:54		Entered the make_future_df method of prophet class
+2022-03-29/13:29:54		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:57		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:57		Entered the make_future_df method of prophet class
+2022-03-29/13:29:57		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:29:59		Entered the fit_prophet_model of prophet class
+2022-03-29/13:29:59		Entered the make_future_df method of prophet class
+2022-03-29/13:29:59		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:02		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:02		Entered the make_future_df method of prophet class
+2022-03-29/13:30:02		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:04		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:04		Entered the make_future_df method of prophet class
+2022-03-29/13:30:04		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:07		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:07		Entered the make_future_df method of prophet class
+2022-03-29/13:30:07		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:09		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:09		Entered the make_future_df method of prophet class
+2022-03-29/13:30:09		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:12		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:12		Entered the make_future_df method of prophet class
+2022-03-29/13:30:12		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:14		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:14		Entered the make_future_df method of prophet class
+2022-03-29/13:30:14		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:17		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:17		Entered the make_future_df method of prophet class
+2022-03-29/13:30:17		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:19		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:19		Entered the make_future_df method of prophet class
+2022-03-29/13:30:19		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:22		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:22		Entered the make_future_df method of prophet class
+2022-03-29/13:30:22		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:24		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:24		Entered the make_future_df method of prophet class
+2022-03-29/13:30:24		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:27		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:27		Entered the make_future_df method of prophet class
+2022-03-29/13:30:27		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:29		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:29		Entered the make_future_df method of prophet class
+2022-03-29/13:30:29		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:32		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:32		Entered the make_future_df method of prophet class
+2022-03-29/13:30:32		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:34		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:34		Entered the make_future_df method of prophet class
+2022-03-29/13:30:34		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:37		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:37		Entered the make_future_df method of prophet class
+2022-03-29/13:30:37		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:39		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:39		Entered the make_future_df method of prophet class
+2022-03-29/13:30:39		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:42		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:42		Entered the make_future_df method of prophet class
+2022-03-29/13:30:42		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:30:44		Entered the fit_prophet_model of prophet class
+2022-03-29/13:30:44		Entered the make_future_df method of prophet class
+2022-03-29/13:30:44		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:25		Opened TRACE_AI database successfully
+2022-03-29/13:34:25		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:26		Entered the make_future_df method of prophet class
+2022-03-29/13:34:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:27		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:27		Entered the make_future_df method of prophet class
+2022-03-29/13:34:27		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:28		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:28		Entered the make_future_df method of prophet class
+2022-03-29/13:34:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:29		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:29		Entered the make_future_df method of prophet class
+2022-03-29/13:34:29		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:30		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:30		Entered the make_future_df method of prophet class
+2022-03-29/13:34:30		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:32		Model training unsuccessful
+2022-03-29/13:34:32		Exception occurred in model training. Exception message is : [Errno 13] Permission denied: 'Forecasted_dataframes/Overall_Counts/overallcounts.csv'
+2022-03-29/13:34:55		Opened TRACE_AI database successfully
+2022-03-29/13:34:55		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:56		Entered the make_future_df method of prophet class
+2022-03-29/13:34:56		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:57		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:57		Entered the make_future_df method of prophet class
+2022-03-29/13:34:57		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:58		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:58		Entered the make_future_df method of prophet class
+2022-03-29/13:34:58		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:34:59		Entered the fit_prophet_model of prophet class
+2022-03-29/13:34:59		Entered the make_future_df method of prophet class
+2022-03-29/13:34:59		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:00		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:00		Entered the make_future_df method of prophet class
+2022-03-29/13:35:00		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:02		Opened TRACE_AI database successfully
+2022-03-29/13:35:02		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:02		Entered the make_future_df method of prophet class
+2022-03-29/13:35:02		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:03		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:03		Entered the make_future_df method of prophet class
+2022-03-29/13:35:03		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:04		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:04		Entered the make_future_df method of prophet class
+2022-03-29/13:35:04		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:05		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:05		Entered the make_future_df method of prophet class
+2022-03-29/13:35:05		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:06		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:06		Entered the make_future_df method of prophet class
+2022-03-29/13:35:06		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:08		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:08		Entered the make_future_df method of prophet class
+2022-03-29/13:35:08		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:09		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:09		Entered the make_future_df method of prophet class
+2022-03-29/13:35:09		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:10		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:10		Entered the make_future_df method of prophet class
+2022-03-29/13:35:10		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:11		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:11		Entered the make_future_df method of prophet class
+2022-03-29/13:35:11		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:12		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:12		Entered the make_future_df method of prophet class
+2022-03-29/13:35:12		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:13		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:14		Entered the make_future_df method of prophet class
+2022-03-29/13:35:14		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:15		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:15		Entered the make_future_df method of prophet class
+2022-03-29/13:35:15		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:16		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:16		Entered the make_future_df method of prophet class
+2022-03-29/13:35:16		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:17		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:17		Entered the make_future_df method of prophet class
+2022-03-29/13:35:17		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:18		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:18		Entered the make_future_df method of prophet class
+2022-03-29/13:35:18		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:20		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:20		Entered the make_future_df method of prophet class
+2022-03-29/13:35:20		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:21		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:21		Entered the make_future_df method of prophet class
+2022-03-29/13:35:21		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:22		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:22		Entered the make_future_df method of prophet class
+2022-03-29/13:35:22		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:23		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:23		Entered the make_future_df method of prophet class
+2022-03-29/13:35:23		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:24		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:24		Entered the make_future_df method of prophet class
+2022-03-29/13:35:24		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:25		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:26		Entered the make_future_df method of prophet class
+2022-03-29/13:35:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:27		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:27		Entered the make_future_df method of prophet class
+2022-03-29/13:35:27		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:28		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:28		Entered the make_future_df method of prophet class
+2022-03-29/13:35:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:29		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:29		Entered the make_future_df method of prophet class
+2022-03-29/13:35:29		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:30		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:30		Entered the make_future_df method of prophet class
+2022-03-29/13:35:30		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:31		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:31		Entered the make_future_df method of prophet class
+2022-03-29/13:35:31		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:33		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:33		Entered the make_future_df method of prophet class
+2022-03-29/13:35:33		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:34		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:34		Entered the make_future_df method of prophet class
+2022-03-29/13:35:34		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:35		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:35		Entered the make_future_df method of prophet class
+2022-03-29/13:35:35		Entered the forecast_future mehtod of prophet class
+2022-03-29/13:35:36		Entered the fit_prophet_model of prophet class
+2022-03-29/13:35:36		Entered the make_future_df method of prophet class
+2022-03-29/13:35:36		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:12		Opened TRACE_AI database successfully
+2022-03-29/18:27:12		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:17		Entered the make_future_df method of prophet class
+2022-03-29/18:27:17		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:18		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:18		Entered the make_future_df method of prophet class
+2022-03-29/18:27:18		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:19		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:19		Entered the make_future_df method of prophet class
+2022-03-29/18:27:19		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:20		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:21		Entered the make_future_df method of prophet class
+2022-03-29/18:27:21		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:22		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:22		Entered the make_future_df method of prophet class
+2022-03-29/18:27:22		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:23		Opened TRACE_AI database successfully
+2022-03-29/18:27:23		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:23		Entered the make_future_df method of prophet class
+2022-03-29/18:27:23		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:25		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:25		Entered the make_future_df method of prophet class
+2022-03-29/18:27:25		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:26		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:26		Entered the make_future_df method of prophet class
+2022-03-29/18:27:26		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:27		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:27		Entered the make_future_df method of prophet class
+2022-03-29/18:27:27		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:28		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:28		Entered the make_future_df method of prophet class
+2022-03-29/18:27:28		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:30		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:30		Entered the make_future_df method of prophet class
+2022-03-29/18:27:30		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:31		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:31		Entered the make_future_df method of prophet class
+2022-03-29/18:27:31		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:32		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:32		Entered the make_future_df method of prophet class
+2022-03-29/18:27:32		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:34		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:34		Entered the make_future_df method of prophet class
+2022-03-29/18:27:34		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:35		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:35		Entered the make_future_df method of prophet class
+2022-03-29/18:27:35		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:36		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:36		Entered the make_future_df method of prophet class
+2022-03-29/18:27:36		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:37		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:37		Entered the make_future_df method of prophet class
+2022-03-29/18:27:37		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:39		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:39		Entered the make_future_df method of prophet class
+2022-03-29/18:27:39		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:40		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:40		Entered the make_future_df method of prophet class
+2022-03-29/18:27:40		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:41		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:41		Entered the make_future_df method of prophet class
+2022-03-29/18:27:41		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:42		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:42		Entered the make_future_df method of prophet class
+2022-03-29/18:27:42		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:44		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:44		Entered the make_future_df method of prophet class
+2022-03-29/18:27:44		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:45		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:45		Entered the make_future_df method of prophet class
+2022-03-29/18:27:45		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:46		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:46		Entered the make_future_df method of prophet class
+2022-03-29/18:27:46		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:47		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:47		Entered the make_future_df method of prophet class
+2022-03-29/18:27:47		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:48		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:49		Entered the make_future_df method of prophet class
+2022-03-29/18:27:49		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:50		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:50		Entered the make_future_df method of prophet class
+2022-03-29/18:27:50		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:51		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:51		Entered the make_future_df method of prophet class
+2022-03-29/18:27:51		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:52		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:54		Entered the make_future_df method of prophet class
+2022-03-29/18:27:54		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:55		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:55		Entered the make_future_df method of prophet class
+2022-03-29/18:27:55		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:56		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:56		Entered the make_future_df method of prophet class
+2022-03-29/18:27:56		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:57		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:57		Entered the make_future_df method of prophet class
+2022-03-29/18:27:57		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:27:59		Entered the fit_prophet_model of prophet class
+2022-03-29/18:27:59		Entered the make_future_df method of prophet class
+2022-03-29/18:27:59		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:28:00		Entered the fit_prophet_model of prophet class
+2022-03-29/18:28:00		Entered the make_future_df method of prophet class
+2022-03-29/18:28:00		Entered the forecast_future mehtod of prophet class
+2022-03-29/18:28:01		Entered the fit_prophet_model of prophet class
+2022-03-29/18:28:01		Entered the make_future_df method of prophet class
+2022-03-29/18:28:01		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:37		Opened TRACE_AI database successfully
+2022-03-30/14:43:37		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:39		Entered the make_future_df method of prophet class
+2022-03-30/14:43:39		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:40		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:40		Entered the make_future_df method of prophet class
+2022-03-30/14:43:40		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:42		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:42		Entered the make_future_df method of prophet class
+2022-03-30/14:43:42		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:43		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:43		Entered the make_future_df method of prophet class
+2022-03-30/14:43:43		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:44		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:44		Entered the make_future_df method of prophet class
+2022-03-30/14:43:44		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:46		Opened TRACE_AI database successfully
+2022-03-30/14:43:46		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:46		Entered the make_future_df method of prophet class
+2022-03-30/14:43:46		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:47		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:47		Entered the make_future_df method of prophet class
+2022-03-30/14:43:47		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:48		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:48		Entered the make_future_df method of prophet class
+2022-03-30/14:43:48		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:50		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:50		Entered the make_future_df method of prophet class
+2022-03-30/14:43:50		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:51		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:51		Entered the make_future_df method of prophet class
+2022-03-30/14:43:51		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:52		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:52		Entered the make_future_df method of prophet class
+2022-03-30/14:43:52		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:54		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:54		Entered the make_future_df method of prophet class
+2022-03-30/14:43:54		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:55		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:55		Entered the make_future_df method of prophet class
+2022-03-30/14:43:55		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:56		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:56		Entered the make_future_df method of prophet class
+2022-03-30/14:43:56		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:58		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:58		Entered the make_future_df method of prophet class
+2022-03-30/14:43:58		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:43:59		Entered the fit_prophet_model of prophet class
+2022-03-30/14:43:59		Entered the make_future_df method of prophet class
+2022-03-30/14:43:59		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:00		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:01		Entered the make_future_df method of prophet class
+2022-03-30/14:44:01		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:02		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:02		Entered the make_future_df method of prophet class
+2022-03-30/14:44:02		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:03		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:03		Entered the make_future_df method of prophet class
+2022-03-30/14:44:03		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:04		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:04		Entered the make_future_df method of prophet class
+2022-03-30/14:44:04		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:06		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:06		Entered the make_future_df method of prophet class
+2022-03-30/14:44:06		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:07		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:07		Entered the make_future_df method of prophet class
+2022-03-30/14:44:07		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:08		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:08		Entered the make_future_df method of prophet class
+2022-03-30/14:44:08		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:09		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:10		Entered the make_future_df method of prophet class
+2022-03-30/14:44:10		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:11		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:11		Entered the make_future_df method of prophet class
+2022-03-30/14:44:11		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:12		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:12		Entered the make_future_df method of prophet class
+2022-03-30/14:44:12		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:13		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:14		Entered the make_future_df method of prophet class
+2022-03-30/14:44:14		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:15		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:15		Entered the make_future_df method of prophet class
+2022-03-30/14:44:15		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:16		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:16		Entered the make_future_df method of prophet class
+2022-03-30/14:44:16		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:17		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:17		Entered the make_future_df method of prophet class
+2022-03-30/14:44:17		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:19		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:19		Entered the make_future_df method of prophet class
+2022-03-30/14:44:19		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:20		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:20		Entered the make_future_df method of prophet class
+2022-03-30/14:44:20		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:21		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:21		Entered the make_future_df method of prophet class
+2022-03-30/14:44:21		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:22		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:23		Entered the make_future_df method of prophet class
+2022-03-30/14:44:23		Entered the forecast_future mehtod of prophet class
+2022-03-30/14:44:24		Entered the fit_prophet_model of prophet class
+2022-03-30/14:44:24		Entered the make_future_df method of prophet class
+2022-03-30/14:44:24		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:17		Opened TRACE_AI database successfully
+2022-03-31/11:03:17		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:19		Entered the make_future_df method of prophet class
+2022-03-31/11:03:19		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:21		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:21		Entered the make_future_df method of prophet class
+2022-03-31/11:03:21		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:22		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:22		Entered the make_future_df method of prophet class
+2022-03-31/11:03:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:24		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:24		Entered the make_future_df method of prophet class
+2022-03-31/11:03:24		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:25		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:25		Entered the make_future_df method of prophet class
+2022-03-31/11:03:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:26		Opened TRACE_AI database successfully
+2022-03-31/11:03:26		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:26		Entered the make_future_df method of prophet class
+2022-03-31/11:03:26		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:27		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:28		Entered the make_future_df method of prophet class
+2022-03-31/11:03:28		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:29		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:29		Entered the make_future_df method of prophet class
+2022-03-31/11:03:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:30		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:30		Entered the make_future_df method of prophet class
+2022-03-31/11:03:30		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:31		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:31		Entered the make_future_df method of prophet class
+2022-03-31/11:03:31		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:33		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:33		Entered the make_future_df method of prophet class
+2022-03-31/11:03:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:34		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:34		Entered the make_future_df method of prophet class
+2022-03-31/11:03:34		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:35		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:35		Entered the make_future_df method of prophet class
+2022-03-31/11:03:35		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:37		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:37		Entered the make_future_df method of prophet class
+2022-03-31/11:03:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:38		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:38		Entered the make_future_df method of prophet class
+2022-03-31/11:03:38		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:39		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:39		Entered the make_future_df method of prophet class
+2022-03-31/11:03:39		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:41		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:41		Entered the make_future_df method of prophet class
+2022-03-31/11:03:41		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:42		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:42		Entered the make_future_df method of prophet class
+2022-03-31/11:03:42		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:43		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:43		Entered the make_future_df method of prophet class
+2022-03-31/11:03:43		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:45		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:45		Entered the make_future_df method of prophet class
+2022-03-31/11:03:45		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:46		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:46		Entered the make_future_df method of prophet class
+2022-03-31/11:03:46		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:47		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:47		Entered the make_future_df method of prophet class
+2022-03-31/11:03:47		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:49		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:49		Entered the make_future_df method of prophet class
+2022-03-31/11:03:49		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:50		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:50		Entered the make_future_df method of prophet class
+2022-03-31/11:03:50		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:51		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:51		Entered the make_future_df method of prophet class
+2022-03-31/11:03:51		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:52		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:53		Entered the make_future_df method of prophet class
+2022-03-31/11:03:53		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:54		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:54		Entered the make_future_df method of prophet class
+2022-03-31/11:03:54		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:55		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:55		Entered the make_future_df method of prophet class
+2022-03-31/11:03:55		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:56		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:56		Entered the make_future_df method of prophet class
+2022-03-31/11:03:56		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:58		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:58		Entered the make_future_df method of prophet class
+2022-03-31/11:03:58		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:03:59		Entered the fit_prophet_model of prophet class
+2022-03-31/11:03:59		Entered the make_future_df method of prophet class
+2022-03-31/11:03:59		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:04:00		Entered the fit_prophet_model of prophet class
+2022-03-31/11:04:00		Entered the make_future_df method of prophet class
+2022-03-31/11:04:00		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:04:01		Entered the fit_prophet_model of prophet class
+2022-03-31/11:04:02		Entered the make_future_df method of prophet class
+2022-03-31/11:04:02		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:04:03		Entered the fit_prophet_model of prophet class
+2022-03-31/11:04:03		Entered the make_future_df method of prophet class
+2022-03-31/11:04:03		Entered the forecast_future mehtod of prophet class
+2022-03-31/11:04:04		Entered the fit_prophet_model of prophet class
+2022-03-31/11:04:04		Entered the make_future_df method of prophet class
+2022-03-31/11:04:04		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:31		Opened TRACE_AI database successfully
+2022-03-31/15:11:31		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:32		Entered the make_future_df method of prophet class
+2022-03-31/15:11:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:33		Entered the make_future_df method of prophet class
+2022-03-31/15:11:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:34		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:34		Entered the make_future_df method of prophet class
+2022-03-31/15:11:34		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:35		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:35		Entered the make_future_df method of prophet class
+2022-03-31/15:11:35		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:37		Entered the make_future_df method of prophet class
+2022-03-31/15:11:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:38		Model training unsuccessful
+2022-03-31/15:11:38		Exception occurred in model training. Exception message is : [Errno 13] Permission denied: 'Forecasted_dataframes/Overall_Counts/overallcounts.csv'
+2022-03-31/15:11:54		Opened TRACE_AI database successfully
+2022-03-31/15:11:54		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:55		Entered the make_future_df method of prophet class
+2022-03-31/15:11:55		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:56		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:56		Entered the make_future_df method of prophet class
+2022-03-31/15:11:56		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:57		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:57		Entered the make_future_df method of prophet class
+2022-03-31/15:11:57		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:11:59		Entered the fit_prophet_model of prophet class
+2022-03-31/15:11:59		Entered the make_future_df method of prophet class
+2022-03-31/15:11:59		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:00		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:00		Entered the make_future_df method of prophet class
+2022-03-31/15:12:00		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:01		Opened TRACE_AI database successfully
+2022-03-31/15:12:01		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:01		Entered the make_future_df method of prophet class
+2022-03-31/15:12:01		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:02		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:03		Entered the make_future_df method of prophet class
+2022-03-31/15:12:03		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:04		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:04		Entered the make_future_df method of prophet class
+2022-03-31/15:12:04		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:05		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:05		Entered the make_future_df method of prophet class
+2022-03-31/15:12:05		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:06		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:06		Entered the make_future_df method of prophet class
+2022-03-31/15:12:06		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:08		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:08		Entered the make_future_df method of prophet class
+2022-03-31/15:12:08		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:09		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:09		Entered the make_future_df method of prophet class
+2022-03-31/15:12:09		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:10		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:10		Entered the make_future_df method of prophet class
+2022-03-31/15:12:10		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:11		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:11		Entered the make_future_df method of prophet class
+2022-03-31/15:12:11		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:12		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:13		Entered the make_future_df method of prophet class
+2022-03-31/15:12:13		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:14		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:14		Entered the make_future_df method of prophet class
+2022-03-31/15:12:14		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:15		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:15		Entered the make_future_df method of prophet class
+2022-03-31/15:12:15		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:16		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:16		Entered the make_future_df method of prophet class
+2022-03-31/15:12:16		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:17		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:18		Entered the make_future_df method of prophet class
+2022-03-31/15:12:18		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:19		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:19		Entered the make_future_df method of prophet class
+2022-03-31/15:12:19		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:20		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:20		Entered the make_future_df method of prophet class
+2022-03-31/15:12:20		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:21		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:21		Entered the make_future_df method of prophet class
+2022-03-31/15:12:21		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:22		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:22		Entered the make_future_df method of prophet class
+2022-03-31/15:12:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:24		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:24		Entered the make_future_df method of prophet class
+2022-03-31/15:12:24		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:25		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:25		Entered the make_future_df method of prophet class
+2022-03-31/15:12:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:26		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:26		Entered the make_future_df method of prophet class
+2022-03-31/15:12:26		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:27		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:27		Entered the make_future_df method of prophet class
+2022-03-31/15:12:27		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:29		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:29		Entered the make_future_df method of prophet class
+2022-03-31/15:12:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:30		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:30		Entered the make_future_df method of prophet class
+2022-03-31/15:12:30		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:31		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:31		Entered the make_future_df method of prophet class
+2022-03-31/15:12:31		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:32		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:32		Entered the make_future_df method of prophet class
+2022-03-31/15:12:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:33		Entered the make_future_df method of prophet class
+2022-03-31/15:12:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:35		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:35		Entered the make_future_df method of prophet class
+2022-03-31/15:12:35		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:36		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:36		Entered the make_future_df method of prophet class
+2022-03-31/15:12:36		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:12:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:12:37		Entered the make_future_df method of prophet class
+2022-03-31/15:12:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:02		Opened TRACE_AI database successfully
+2022-03-31/15:26:02		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:03		Entered the make_future_df method of prophet class
+2022-03-31/15:26:03		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:04		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:05		Entered the make_future_df method of prophet class
+2022-03-31/15:26:05		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:06		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:06		Entered the make_future_df method of prophet class
+2022-03-31/15:26:06		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:07		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:07		Entered the make_future_df method of prophet class
+2022-03-31/15:26:07		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:09		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:09		Entered the make_future_df method of prophet class
+2022-03-31/15:26:09		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:10		Opened TRACE_AI database successfully
+2022-03-31/15:26:10		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:10		Entered the make_future_df method of prophet class
+2022-03-31/15:26:10		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:11		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:11		Entered the make_future_df method of prophet class
+2022-03-31/15:26:11		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:13		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:13		Entered the make_future_df method of prophet class
+2022-03-31/15:26:13		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:14		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:14		Entered the make_future_df method of prophet class
+2022-03-31/15:26:14		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:16		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:16		Entered the make_future_df method of prophet class
+2022-03-31/15:26:16		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:17		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:17		Entered the make_future_df method of prophet class
+2022-03-31/15:26:17		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:18		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:18		Entered the make_future_df method of prophet class
+2022-03-31/15:26:18		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:20		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:20		Entered the make_future_df method of prophet class
+2022-03-31/15:26:20		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:21		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:21		Entered the make_future_df method of prophet class
+2022-03-31/15:26:21		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:22		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:22		Entered the make_future_df method of prophet class
+2022-03-31/15:26:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:24		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:24		Entered the make_future_df method of prophet class
+2022-03-31/15:26:24		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:25		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:25		Entered the make_future_df method of prophet class
+2022-03-31/15:26:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:26		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:27		Entered the make_future_df method of prophet class
+2022-03-31/15:26:27		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:28		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:28		Entered the make_future_df method of prophet class
+2022-03-31/15:26:28		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:29		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:29		Entered the make_future_df method of prophet class
+2022-03-31/15:26:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:31		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:31		Entered the make_future_df method of prophet class
+2022-03-31/15:26:31		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:32		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:32		Entered the make_future_df method of prophet class
+2022-03-31/15:26:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:33		Entered the make_future_df method of prophet class
+2022-03-31/15:26:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:35		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:35		Entered the make_future_df method of prophet class
+2022-03-31/15:26:35		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:36		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:36		Entered the make_future_df method of prophet class
+2022-03-31/15:26:36		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:37		Entered the make_future_df method of prophet class
+2022-03-31/15:26:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:39		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:39		Entered the make_future_df method of prophet class
+2022-03-31/15:26:39		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:40		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:40		Entered the make_future_df method of prophet class
+2022-03-31/15:26:40		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:41		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:41		Entered the make_future_df method of prophet class
+2022-03-31/15:26:41		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:43		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:43		Entered the make_future_df method of prophet class
+2022-03-31/15:26:43		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:44		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:44		Entered the make_future_df method of prophet class
+2022-03-31/15:26:44		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:45		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:45		Entered the make_future_df method of prophet class
+2022-03-31/15:26:45		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:46		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:47		Entered the make_future_df method of prophet class
+2022-03-31/15:26:47		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:48		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:48		Entered the make_future_df method of prophet class
+2022-03-31/15:26:48		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:49		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:49		Entered the make_future_df method of prophet class
+2022-03-31/15:26:49		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:05		Opened TRACE_AI database successfully
+2022-03-31/15:26:05		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:06		Entered the make_future_df method of prophet class
+2022-03-31/15:26:06		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:08		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:08		Entered the make_future_df method of prophet class
+2022-03-31/15:26:08		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:09		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:09		Entered the make_future_df method of prophet class
+2022-03-31/15:26:09		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:11		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:11		Entered the make_future_df method of prophet class
+2022-03-31/15:26:11		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:12		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:12		Entered the make_future_df method of prophet class
+2022-03-31/15:26:12		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:13		Opened TRACE_AI database successfully
+2022-03-31/15:26:13		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:13		Entered the make_future_df method of prophet class
+2022-03-31/15:26:13		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:15		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:15		Entered the make_future_df method of prophet class
+2022-03-31/15:26:15		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:16		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:16		Entered the make_future_df method of prophet class
+2022-03-31/15:26:16		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:18		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:18		Entered the make_future_df method of prophet class
+2022-03-31/15:26:18		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:19		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:19		Entered the make_future_df method of prophet class
+2022-03-31/15:26:19		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:20		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:21		Entered the make_future_df method of prophet class
+2022-03-31/15:26:21		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:22		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:22		Entered the make_future_df method of prophet class
+2022-03-31/15:26:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:23		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:23		Entered the make_future_df method of prophet class
+2022-03-31/15:26:23		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:25		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:25		Entered the make_future_df method of prophet class
+2022-03-31/15:26:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:26		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:26		Entered the make_future_df method of prophet class
+2022-03-31/15:26:26		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:27		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:27		Entered the make_future_df method of prophet class
+2022-03-31/15:26:27		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:29		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:29		Entered the make_future_df method of prophet class
+2022-03-31/15:26:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:30		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:30		Entered the make_future_df method of prophet class
+2022-03-31/15:26:30		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:32		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:32		Entered the make_future_df method of prophet class
+2022-03-31/15:26:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:33		Entered the make_future_df method of prophet class
+2022-03-31/15:26:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:34		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:34		Entered the make_future_df method of prophet class
+2022-03-31/15:26:34		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:36		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:36		Entered the make_future_df method of prophet class
+2022-03-31/15:26:36		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:37		Entered the make_future_df method of prophet class
+2022-03-31/15:26:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:38		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:38		Entered the make_future_df method of prophet class
+2022-03-31/15:26:38		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:40		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:40		Entered the make_future_df method of prophet class
+2022-03-31/15:26:40		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:41		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:41		Entered the make_future_df method of prophet class
+2022-03-31/15:26:41		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:43		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:43		Entered the make_future_df method of prophet class
+2022-03-31/15:26:43		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:44		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:44		Entered the make_future_df method of prophet class
+2022-03-31/15:26:44		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:45		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:45		Entered the make_future_df method of prophet class
+2022-03-31/15:26:45		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:46		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:47		Entered the make_future_df method of prophet class
+2022-03-31/15:26:47		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:48		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:48		Entered the make_future_df method of prophet class
+2022-03-31/15:26:48		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:49		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:49		Entered the make_future_df method of prophet class
+2022-03-31/15:26:49		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:50		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:50		Entered the make_future_df method of prophet class
+2022-03-31/15:26:50		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:52		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:52		Entered the make_future_df method of prophet class
+2022-03-31/15:26:52		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:26:53		Entered the fit_prophet_model of prophet class
+2022-03-31/15:26:53		Entered the make_future_df method of prophet class
+2022-03-31/15:26:53		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:02		Opened TRACE_AI database successfully
+2022-03-31/15:29:02		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:02		Entered the make_future_df method of prophet class
+2022-03-31/15:29:02		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:04		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:04		Entered the make_future_df method of prophet class
+2022-03-31/15:29:04		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:05		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:05		Entered the make_future_df method of prophet class
+2022-03-31/15:29:05		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:06		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:06		Entered the make_future_df method of prophet class
+2022-03-31/15:29:06		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:07		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:07		Entered the make_future_df method of prophet class
+2022-03-31/15:29:07		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:09		Opened TRACE_AI database successfully
+2022-03-31/15:29:09		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:09		Entered the make_future_df method of prophet class
+2022-03-31/15:29:09		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:10		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:10		Entered the make_future_df method of prophet class
+2022-03-31/15:29:10		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:11		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:12		Entered the make_future_df method of prophet class
+2022-03-31/15:29:12		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:13		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:13		Entered the make_future_df method of prophet class
+2022-03-31/15:29:13		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:14		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:14		Entered the make_future_df method of prophet class
+2022-03-31/15:29:14		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:15		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:16		Entered the make_future_df method of prophet class
+2022-03-31/15:29:16		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:17		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:17		Entered the make_future_df method of prophet class
+2022-03-31/15:29:17		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:18		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:18		Entered the make_future_df method of prophet class
+2022-03-31/15:29:18		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:20		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:20		Entered the make_future_df method of prophet class
+2022-03-31/15:29:20		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:21		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:21		Entered the make_future_df method of prophet class
+2022-03-31/15:29:21		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:22		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:22		Entered the make_future_df method of prophet class
+2022-03-31/15:29:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:24		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:24		Entered the make_future_df method of prophet class
+2022-03-31/15:29:24		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:25		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:25		Entered the make_future_df method of prophet class
+2022-03-31/15:29:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:26		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:27		Entered the make_future_df method of prophet class
+2022-03-31/15:29:27		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:28		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:28		Entered the make_future_df method of prophet class
+2022-03-31/15:29:28		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:29		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:29		Entered the make_future_df method of prophet class
+2022-03-31/15:29:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:31		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:31		Entered the make_future_df method of prophet class
+2022-03-31/15:29:31		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:32		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:32		Entered the make_future_df method of prophet class
+2022-03-31/15:29:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:33		Entered the make_future_df method of prophet class
+2022-03-31/15:29:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:34		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:35		Entered the make_future_df method of prophet class
+2022-03-31/15:29:35		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:36		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:36		Entered the make_future_df method of prophet class
+2022-03-31/15:29:36		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:37		Entered the make_future_df method of prophet class
+2022-03-31/15:29:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:38		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:38		Entered the make_future_df method of prophet class
+2022-03-31/15:29:38		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:40		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:40		Entered the make_future_df method of prophet class
+2022-03-31/15:29:40		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:41		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:41		Entered the make_future_df method of prophet class
+2022-03-31/15:29:41		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:42		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:42		Entered the make_future_df method of prophet class
+2022-03-31/15:29:42		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:43		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:44		Entered the make_future_df method of prophet class
+2022-03-31/15:29:44		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:45		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:45		Entered the make_future_df method of prophet class
+2022-03-31/15:29:45		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:46		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:46		Entered the make_future_df method of prophet class
+2022-03-31/15:29:46		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:47		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:47		Entered the make_future_df method of prophet class
+2022-03-31/15:29:47		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:05		Opened TRACE_AI database successfully
+2022-03-31/15:29:05		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:05		Entered the make_future_df method of prophet class
+2022-03-31/15:29:05		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:07		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:07		Entered the make_future_df method of prophet class
+2022-03-31/15:29:07		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:08		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:08		Entered the make_future_df method of prophet class
+2022-03-31/15:29:08		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:09		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:09		Entered the make_future_df method of prophet class
+2022-03-31/15:29:09		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:11		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:11		Entered the make_future_df method of prophet class
+2022-03-31/15:29:11		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:12		Opened TRACE_AI database successfully
+2022-03-31/15:29:12		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:12		Entered the make_future_df method of prophet class
+2022-03-31/15:29:12		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:14		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:14		Entered the make_future_df method of prophet class
+2022-03-31/15:29:14		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:15		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:15		Entered the make_future_df method of prophet class
+2022-03-31/15:29:15		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:16		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:16		Entered the make_future_df method of prophet class
+2022-03-31/15:29:16		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:18		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:18		Entered the make_future_df method of prophet class
+2022-03-31/15:29:18		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:19		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:19		Entered the make_future_df method of prophet class
+2022-03-31/15:29:19		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:20		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:20		Entered the make_future_df method of prophet class
+2022-03-31/15:29:20		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:22		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:22		Entered the make_future_df method of prophet class
+2022-03-31/15:29:22		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:23		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:23		Entered the make_future_df method of prophet class
+2022-03-31/15:29:23		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:25		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:25		Entered the make_future_df method of prophet class
+2022-03-31/15:29:25		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:26		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:26		Entered the make_future_df method of prophet class
+2022-03-31/15:29:26		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:27		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:27		Entered the make_future_df method of prophet class
+2022-03-31/15:29:27		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:29		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:29		Entered the make_future_df method of prophet class
+2022-03-31/15:29:29		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:30		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:30		Entered the make_future_df method of prophet class
+2022-03-31/15:29:30		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:32		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:32		Entered the make_future_df method of prophet class
+2022-03-31/15:29:32		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:33		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:33		Entered the make_future_df method of prophet class
+2022-03-31/15:29:33		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:34		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:34		Entered the make_future_df method of prophet class
+2022-03-31/15:29:34		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:36		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:36		Entered the make_future_df method of prophet class
+2022-03-31/15:29:36		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:37		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:37		Entered the make_future_df method of prophet class
+2022-03-31/15:29:37		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:38		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:38		Entered the make_future_df method of prophet class
+2022-03-31/15:29:38		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:40		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:40		Entered the make_future_df method of prophet class
+2022-03-31/15:29:40		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:41		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:41		Entered the make_future_df method of prophet class
+2022-03-31/15:29:41		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:42		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:42		Entered the make_future_df method of prophet class
+2022-03-31/15:29:42		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:43		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:44		Entered the make_future_df method of prophet class
+2022-03-31/15:29:44		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:45		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:45		Entered the make_future_df method of prophet class
+2022-03-31/15:29:45		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:46		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:46		Entered the make_future_df method of prophet class
+2022-03-31/15:29:46		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:47		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:48		Entered the make_future_df method of prophet class
+2022-03-31/15:29:48		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:49		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:49		Entered the make_future_df method of prophet class
+2022-03-31/15:29:49		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:50		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:50		Entered the make_future_df method of prophet class
+2022-03-31/15:29:50		Entered the forecast_future mehtod of prophet class
+2022-03-31/15:29:51		Entered the fit_prophet_model of prophet class
+2022-03-31/15:29:51		Entered the make_future_df method of prophet class
+2022-03-31/15:29:51		Entered the forecast_future mehtod of prophet class
